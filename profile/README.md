@@ -23,8 +23,7 @@ Transparent quality metrics enabling funders to monitor compliance, publishers t
 This Github organisation contains repositories related to the BioDiv-FC project.
 
 Main repositories are:
-* [XXX](XXX)
-* [XXX](XXX)
+* [FAIR-Checker demonstration](https://github.com/Biodiv-FC/FAIR-Checker-demonstration)
 
 
 ### Acknowledgements
