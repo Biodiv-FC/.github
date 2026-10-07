@@ -3,14 +3,7 @@
 BioDiv-FC is the acronym of an ELIXIR funded project entitled [BioDiv-FAIR-Checker: Raising FAIRness of European biodiversity data through ELIXIR-aligned standards, services and training]( https://elixir-europe.org/how-we-work/scientific-programme/science/bfsp/biodiv). The project received funding from the ELIXIR Scientific Programme under the Biodiversity, food security and pathogens (BFSP) Scientific Tier Priority Area. 
 
 ### What we do
-BioDiv-FC is an interdisciplinary project combining expertise in:
-
-* biodiversity genomics
-* XX
-* XX
-* XX
-
-Our goal is to develop a domain-aware FAIRness evaluation tool for biodiversity data, ranging from genomic data to specimen to ecological data. The ultimate goal is to make FAIR evaluations reflect real biodiversity data practices, object metadata completeness, and turn results into actionable recommendations.
+BioDiv-FC is an interdisciplinary project whose goal is to develop a domain-aware FAIRness evaluation tool for biodiversity data, ranging from genomic data to specimen to ecological data. The ultimate goal is to make FAIR evaluations reflect real biodiversity data practices, object metadata completeness, and turn results into actionable recommendations.
 
 ### Key objectives
 Domain-tailored FAIR-checker for genomics, specimen and ecological time-series datasets, replacing generic rules with discipline-specific metadata checks.
