@@ -27,7 +27,8 @@ Main repositories are:
 
 
 ### Acknowledgements
-This project is funded by the ELIXIR Commissioned Service 2024-SCIENCE-BFSP, Work Package 6. 
+This project was funded by the ELIXIR Commissioned Service [2024-SCIENCE-BFSP](https://zenodo.org/records/19469586), Work Package 6. ELIXIR is the research infrastructure for life science data. 
+
 
 ### News
 * [Integrating comprehensive species data into biodiversity assessments ](https://www.sib.swiss/news/integrating-comprehensive-species-data-into-biodiversity-assessments)
